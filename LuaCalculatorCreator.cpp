@@ -35,7 +35,7 @@ int main() {
         calculatorScript += "\tend\n";
     };
 
-    calculatorScript += "end";
+    calculatorScript += "end\n\nreturn calculate";
 
     // write file
 
